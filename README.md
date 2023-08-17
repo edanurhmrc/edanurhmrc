@@ -1,17 +1,49 @@
-### Hello I'm Eda 👋
+<h1 >Hi 👋, I'm Eda</h1>
+<h3 > En </h3>
 
-# 
-I'm a final-year software engineering student at Kırklareli University and will be graduating in June 2023. <br><br>I've been interested in mobile development for about a year and have been developing myself in this area.<br> I started this journey with Kotlin, but now I'm continuing with Flutter due to my graduation project. <br>I'm developing my graduation project with a team of three people, and we're learning Flutter at the same time while developing our project.<br><br>I hope we can complete our project soon and publish it.🎈
+I just graduated from Kırklareli University and just completed my compulsory internship. With my decision about two years ago, I continued my career in mobile application development.
 
+I started my mobile career with Kotlin but now I continue with Flutter.
 
-# 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=flat&logo=android&logoColor=%a4c639) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=edanurhmrc&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=edanurhmrc&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=edanurhmrc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I started learning Flutter actively for my graduation project in December of last year, and together with my two teammates, we started developing our project using Flutter and Bloc State management. Currently, we are still developing our project and we are planning to publish our project very soon..🎈
+
+I am currently actively looking for a job as a Flutter mobile application developer. For job offers, you can contact edanurhmrc@gmail.com.
 
 
+<h3> Tr </h3>
+Kırklareli Üniversitesi'nden yeni mezun oldum ve zorunlu stajımı yeni tamamladım. Yaklaşık iki yıl önce aldığım kararla kariyerime mobil uygulama geliştirme alanında devam ettim.
+
+Mobil kariyerime Kotlin ile başladım ama şimdi Flutter ile devam ediyorum.
+
+Geçen yılın Aralık ayında mezuniyet projem için aktif olarak Flutter öğrenmeye başladım ve iki ekip arkadaşımla birlikte Flutter ve Bloc State yönetimini kullanarak projemizi geliştirmeye başladık. Şu anda projemizi geliştirmeye devam ediyoruz ve çok yakında projemizi yayınlamayı planlıyoruz..🎈
+
+Şuan aktif olarak Flutter mobil uygulama geliştiricisi olarak iş aramaktayım. İş teklifleri için edanurhmrc@gmail.com adresinden iletişime geçebilirsiniz.
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
+<a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href ="https://www.notion.so" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="notion" width="40" height="40"/> </a>
+  <a href ="https://trello.com/tr" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/trello_logo_icon_189227.png" alt="Trello" width="40" height="40"/> </a>
+</p>
+  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edanurhmrc&theme=dark&show_icons=true&locale=en" alt="edanurhmrc" /></p>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=edanurhmrc&theme=dark&show_icons=true&locale=en" alt="edanurhmrc" /></p>
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=edanurhmrc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="edanurhmrc" /></p>
+  
+
