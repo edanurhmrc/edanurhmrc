@@ -1,5 +1,5 @@
 <h1 >Hi 👋, I'm Eda</h1>
-<h3 > En </h3>
+<h3 > EN </h3>
 
 I just graduated from Kırklareli University and just completed my compulsory internship. With my decision about two years ago, I continued my career in mobile application development.
 
@@ -10,10 +10,8 @@ I started learning Flutter actively for my graduation project in December of las
 I am currently actively looking for a job as a Flutter mobile application developer. For job offers, you can contact edanurhmrc@gmail.com.
 
 
-<h3> Tr </h3>
-Kırklareli Üniversitesi'nden yeni mezun oldum ve zorunlu stajımı yeni tamamladım. Yaklaşık iki yıl önce aldığım kararla kariyerime mobil uygulama geliştirme alanında devam ettim.
-
-Mobil kariyerime Kotlin ile başladım ama şimdi Flutter ile devam ediyorum.
+<h3> TR </h3>
+Kırklareli Üniversitesi'nden yeni mezun oldum ve zorunlu stajımı yeni tamamladım. Yaklaşık iki yıl önce aldığım kararla kariyerime mobil uygulama geliştirme alanında devam etmekteyim.Mobil kariyerime Kotlin ile başladım ama şimdi Flutter ile devam ediyorum.
 
 Geçen yılın Aralık ayında mezuniyet projem için aktif olarak Flutter öğrenmeye başladım ve iki ekip arkadaşımla birlikte Flutter ve Bloc State yönetimini kullanarak projemizi geliştirmeye başladık. Şu anda projemizi geliştirmeye devam ediyoruz ve çok yakında projemizi yayınlamayı planlıyoruz..🎈
 
