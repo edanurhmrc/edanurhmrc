@@ -43,9 +43,11 @@ Geçen yılın Aralık ayında mezuniyet projem için aktif olarak Flutter öğr
 </p>
 
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edanurhmrc&theme=dark&show_icons=true&&include_all_commits=true&count_private=true&locale=en" alt="edanurhmrc" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?user=edanurhmrc&theme=dark&show_icons=true&&include_all_commits=true&count_private=true&locale=en" alt="edanurhmrc" /></p>
 
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=edanurhmrc&theme=dark&show_icons=true&locale=en" alt="edanurhmrc" /></p>
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=edanurhmrc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="edanurhmrc" /></p>
+
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs/?
+user=edanurhmrc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="edanurhmrc" /></p>
   
 
