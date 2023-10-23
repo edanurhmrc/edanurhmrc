@@ -7,7 +7,7 @@ I started my mobile career with Kotlin but now I continue with Flutter.
 
 I started learning Flutter actively for my graduation project in December of last year, and together with my two teammates, we started developing our project using Flutter and Bloc State management. Currently, we are still developing our project and we are planning to publish our project very soon..🎈
 
-I am currently actively looking for a job as a Flutter mobile application developer. For job offers, you can contact edanurhmrc@gmail.com.
+
 
 
 <h3> TR </h3>
@@ -15,7 +15,6 @@ Kırklareli Üniversitesi'nden yeni mezun oldum ve zorunlu stajımı yeni tamaml
 
 Geçen yılın Aralık ayında mezuniyet projem için aktif olarak Flutter öğrenmeye başladım ve iki ekip arkadaşımla birlikte Flutter ve Bloc State yönetimini kullanarak projemizi geliştirmeye başladık. Şu anda projemizi geliştirmeye devam ediyoruz ve çok yakında projemizi yayınlamayı planlıyoruz..🎈
 
-Şuan aktif olarak Flutter mobil uygulama geliştiricisi olarak iş aramaktayım. İş teklifleri için edanurhmrc@gmail.com adresinden iletişime geçebilirsiniz.
 
 
 
