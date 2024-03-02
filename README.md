@@ -1,22 +1,18 @@
 <h1 >Hi 👋, I'm Eda</h1>
-<h3 > EN </h3>
 
-I just graduated from Kırklareli University and just completed my compulsory internship. With my decision about two years ago, I continued my career in mobile application development.
+<h3> What am I doing ? </h3>
 
-I started my mobile career with Kotlin but now I continue with Flutter.
+<h4> I just graduated from Kırklareli University software engineering and now </h4>
 
-I started learning Flutter actively for my graduation project in December of last year, and together with my two teammates, we started developing our project using Flutter and Bloc State management. Currently, we are still developing our project and we are planning to publish our project very soon..🎈
+I'm 
+- working on Flutter
 
-
-
-
-<h3> TR </h3>
-Kırklareli Üniversitesi'nden yeni mezun oldum ve zorunlu stajımı yeni tamamladım. Yaklaşık iki yıl önce aldığım kararla kariyerime mobil uygulama geliştirme alanında devam etmekteyim.Mobil kariyerime Kotlin ile başladım ama şimdi Flutter ile devam ediyorum.
-
-Geçen yılın Aralık ayında mezuniyet projem için aktif olarak Flutter öğrenmeye başladım ve iki ekip arkadaşımla birlikte Flutter ve Bloc State yönetimini kullanarak projemizi geliştirmeye başladık. Şu anda projemizi geliştirmeye devam ediyoruz ve çok yakında projemizi yayınlamayı planlıyoruz..🎈
+- working as a Mobile Developer at [Mert Software & Electronics](https://mertyazilim.com.tr/tr/)
+  
+- improving myself by using different technologies with Flutter 
 
 
-
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -38,13 +34,6 @@ Geçen yılın Aralık ayında mezuniyet projem için aktif olarak Flutter öğr
   <a href ="https://www.notion.so" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="notion" width="40" height="40"/> </a>
   <a href ="https://trello.com/tr" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/trello_logo_icon_189227.png" alt="Trello" width="40" height="40"/> </a>
 </p>
-
-  
-<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=edanurhmrc&theme=dark&show_icons=true&&include_all_commits=true&count_private=true&locale=en" alt="edanurhmrc" /></p>
-
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=edanurhmrc&theme=dark&show_icons=true&locale=en" alt="edanurhmrc" /></p>
-
-<p><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=edanurhmrc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"</p>
 
   
 
