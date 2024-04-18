@@ -9,7 +9,9 @@ I'm
 
 - working as a Mobile Developer at [Mert Software & Electronics](https://mertyazilim.com.tr/tr/)
   
-- improving myself by using different technologies with Flutter 
+- improving myself by using different technologies with Flutter
+
+- sharing my experiences on [my medium account](https://medium.com/@edanurhmrc)
 
 
 <br>
