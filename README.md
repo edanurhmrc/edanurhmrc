@@ -7,11 +7,13 @@
 I'm 
 - working on Flutter
 
-- working as a Mobile Developer at [Mert Software & Electronics](https://mertyazilim.com.tr/tr/)
+- worked as a Mobile Developer at [Mert Software & Electronics](https://mertyazilim.com.tr/tr/)
   
 - improving myself by using different technologies with Flutter
 
 - sharing my experiences on [my medium account](https://medium.com/@edanurhmrc)
+
+- currently seeking new job opportunities. If you are interested, please reach out to me at edanurhmrc@gmail.com or connect with me on [my linkedIn account](https://www.linkedin.com/in/edanurhamurcu/).
 
 
 <br>
@@ -35,7 +37,8 @@ I'm
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href ="https://www.notion.so" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="notion" width="40" height="40"/> </a>
   <a href ="https://trello.com/tr" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/trello_logo_icon_189227.png" alt="Trello" width="40" height="40"/> </a>
-</p>
+  <a href = "https://appium.io/docs/en/latest" target= "_blank" rel = "noreferrer"><img src ="https://brandslogos.com/wp-content/uploads/images/large/appium-logo.png" alt="Appium" width="40" height="40"/></a>
+  </p>
 
   
 
